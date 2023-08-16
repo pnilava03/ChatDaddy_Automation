@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T12:52:24 IST" name="Default suite" finished-at="2023-08-16T12:52:43 IST" duration-ms="18920">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T12:52:24 IST" name="Default test" finished-at="2023-08-16T12:52:43 IST" duration-ms="18920">
+      <class name="app.chatdaddy.tech.Tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:app.chatdaddy.tech.Tests.LoginTest@38c6f217]" started-at="2023-08-16T12:52:24 IST" name="setup" finished-at="2023-08-16T12:52:33 IST" duration-ms="9208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testM()[pri:0, instance:app.chatdaddy.tech.Tests.LoginTest@38c6f217]" started-at="2023-08-16T12:52:33 IST" name="testM" finished-at="2023-08-16T12:52:43 IST" duration-ms="9579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testM -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:app.chatdaddy.tech.Tests.LoginTest@38c6f217]" started-at="2023-08-16T12:52:43 IST" name="closeApplication" finished-at="2023-08-16T12:52:43 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- app.chatdaddy.tech.Tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
